@@ -1,0 +1,47 @@
+.mm-gala-sponsors {
+	margin-top:25px;
+	border-top:5px solid #f1f1f1;
+	padding-top:25px;
+}
+
+.mm-gala-sponsors h2 {
+	font-size:24px;
+	font-weight:bold;
+	color:#453470;
+}
+
+.mm-gala-sponsors h3 {
+	font-size:18px;
+	text-transform:uppercase;
+	font-weight:100;
+	color:#666;
+}
+
+.mm-gala-sponsors ul.mm-logos li {
+    display:inline-block;
+    margin:0 15px 0 0;
+}
+
+.mm-gala-sponsors ul.mm-logos li img {
+	max-width:80px;
+    max-height:80px;
+}
+
+.mm-gala-sponsors ul {
+    margin:0;
+    padding:0;
+    margin-bottom:15px;
+}
+
+.mm-gala-sponsors ul li {
+    list-style:none;
+}
+
+.mm-sponsors {
+	padding:15px;
+	border-bottom:1px solid #f1f1f1;
+}
+
+.mm-gold, .mm-bronze {
+	background:#f1f1f1;
+}
